@@ -1,0 +1,38 @@
+A Robust Hybrid Classical and Quantum Model for Short Term Wind Speed Forecasting
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:30.August.2023
+
+
+Deep learning model, quantum neural network, robust design, wind speed forecasting
+
+
+A_Robust_Hybrid_Classical_and_Quantum_Model
+
+
+a_robust_hybrid_classical_and_quantum_model
+
+
+
+wind_speed_forecasting
+
+
+
+
+Fid	
+Latitude	
+Langitude	
+Fdate	
+Wind_Speed	
+First_Indicator	
+RAIN	
+Second_Indicator	
+Max_Temp	
+Third_Indicator	
+Min_temp	
+Min_grass_temp
+Prediction
+
+
+
+Wind Speed Forecasting
